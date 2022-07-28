@@ -2,7 +2,7 @@
 
 ✨ **A brief summary about who Victor is** ✨:
 
-- 🔭 I’m currently working as Bug Hunter and Freelancer FrontEnd Developer;
+- 🔭 I’m currently working as Bug Hunter;
 - 🌱 I’m currently learning more about Linux Environments;
 - 👯 I’m looking to collaborate on Cyber Security;
 - 🤔 I’m looking for help with CTFs;
