@@ -8,5 +8,4 @@
 - 🤔 I’m looking for help with CTFs;
 - 💬 Ask me about Python, HTML, CSS and GIT
 - 📫 How to reach me: victorhugodossantos7@gmail.com
-- 😄 Pronouns: He
 - ⚡ Fun fact: I would now be working as a 3D artist if I hadn't discovered the Information Security universe;
