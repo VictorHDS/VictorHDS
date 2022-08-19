@@ -4,7 +4,7 @@
 
 - 💼👾 I’m currently working as Bug Hunter;
 - 🌱🖥️ I’m currently learning more about Linux Environments;
-- 🤝🛡 I’m looking to collaborate on Cyber Security;
+- 🤝🛡 I’m looking to collaborate on Cybersecurity;
 - 🙋🚩 I’m looking for help with CTFs;
 - 💬👨‍💻 Ask me about Shell Script, Python, HTML, CSS and GIT
 - 📫 How to reach me: vhds@tutanota.com
