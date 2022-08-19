@@ -8,4 +8,4 @@
 - 🙋🚩 I’m looking for help with CTFs;
 - 💬👨‍💻 Ask me about Shell Script, Python, HTML, CSS and GIT
 - 📫 How to reach me: vhds@tutanota.com
-- 🤔😯 Fun fact: I would now be working as a 3D artist if I hadn't discovered the Information Security universe.
+- 🤔😯 Fun fact: I would now be working as a Game Developer or 3D artist if I hadn't discovered the Information Security universe.
