@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHDS&show_icons=true&include_all_commits=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHDS)
+
 ✨ **A brief summary about who Victor is** ✨:
 
 - 💼👾 I’m currently working by myself as Bug Hunter;
