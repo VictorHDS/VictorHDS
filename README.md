@@ -1,8 +1,16 @@
 ### Hi there 👋
+<p align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHDS&show_icons=true&include_all_commits=true&theme=radical)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHDS&hide=c,c++,cython,emacs_lisp&layout=compact)
+</p>
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHDS&show_icons=true&include_all_commits=true&theme=radical)
+<a href="https://github.com/VictorHDS"><img width=550 src="https://github-profile-trophy.vercel.app/?username=VictorHDS&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHDS&hide=c,c++,cython,emacs_lisp&layout=compact)
+<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<a href="https://github.com/VictorHDS"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=VictorHDS&color=blueviolet&style=flat-square"></a>
 
 ✨ **A brief summary about who Victor is** ✨:
 
