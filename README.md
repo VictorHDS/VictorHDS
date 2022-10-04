@@ -12,7 +12,7 @@
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/VictorHDS"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=VictorHDS&color=blueviolet&style=flat-square"></a>
 
-✨ **A brief summary about who Victor is** ✨:
+✨ **A brief summary about me** ✨:
 
 - 💼👾 I’m currently working by myself as Bug Hunter;
 - 🌱🖥️ I’m currently learning more about Linux Environments;
