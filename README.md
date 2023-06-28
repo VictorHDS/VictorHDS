@@ -15,10 +15,10 @@
 ✨ **A brief summary about me** ✨:
 
 - 💼👾 I’m currently working by myself as Bug Hunter;
-- 🌱🖥️ I’m currently learning more about Linux Environments;
+- 🌱🖥️ I’m currently learning more about Computer Networking;
 - 🤝🛡 I’m looking to collaborate on Cybersecurity;
 - 🙋🚩 I’m looking for help with CTFs;
-- 💬👨‍💻 Ask me about Shell Script, Python, HTML, CSS and GIT
+- 💬👨‍💻 Ask me about Shell Script, Python, HTML, CSS, and GIT
 - 📫 How to reach me: vhds@tutanota.com
 - 🤔😯 Fun fact: I would now be working as a Game Developer or 3D artist if I hadn't discovered the Information Security universe.
 
