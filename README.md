@@ -14,10 +14,10 @@
 
 ✨ **A brief summary about me** ✨:
 
-- 💼👾 I’m currently working by myself as Bug Hunter;
-- 🌱🖥️ I’m currently learning more about Computer Networking;
+- 💼👾 I’m currently undergoing training in the CDN (Content Delivery Network) area;
+- 🌱🖥️ I’m currently learning more about Computer Networks;
+- 🏅 I'm looking for Cisco's CCNA Certification;
 - 🤝🛡 I’m looking to collaborate on Cybersecurity;
-- 🙋🚩 I’m looking for help with CTFs;
 - 💬👨‍💻 Ask me about Shell Script, Python, HTML, CSS, and GIT
 - 📫 How to reach me: vhds@tutanota.com
 - 🤔😯 Fun fact: I would now be working as a Game Developer or 3D artist if I hadn't discovered the Information Security universe.
