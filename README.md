@@ -14,12 +14,12 @@
 
 ✨ **A brief summary about me** ✨:
 
-- 💼👾 I’m currently undergoing training in the CDN (Content Delivery Network) area;
+- 💼👾 I’m currently a SOC Analyst;
 - 🌱🖥️ I’m currently learning more about Computer Networks;
-- 🏅 I'm looking for Cisco's CCNA Certification;
-- 🤝🛡 I’m looking to collaborate on Cybersecurity;
-- 💬👨‍💻 Ask me about Shell Script, Python, HTML, CSS, and GIT
-- 📫 How to reach me: vhds@tutanota.com
+- 🏅 I'm looking for Cybersecurity Certifications;
+- 🤝🛡 I’m looking to collaborate on Offensive Security;
+- 💬👨‍💻 Ask me about Information Security n Computer Networks;
+- 📫 How to reach me: victorhugodossantos7@gmail.com
 - 🤔😯 Fun fact: I would now be working as a Game Developer or 3D artist if I hadn't discovered the Information Security universe.
 
 [Buy me a Coffee!](https://www.buymeacoffee.com/vhds)
